@@ -11,4 +11,5 @@ case "${GITHUB_EVENT_NAME}" in
     *)
         break
         ;;
+
 esac
